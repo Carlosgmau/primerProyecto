@@ -98,7 +98,9 @@ async function obtenerTitulosDePosts(): Promise<string[]> {
   
   return body.map(post => post.title)
 }
- 
+
+
+
 // Ejemplo de uso:
 obtenerTitulosDePosts()
   .then(titulos => {
