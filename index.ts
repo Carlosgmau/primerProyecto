@@ -1,5 +1,5 @@
 
-/* Ejercicio 1
+/* Ejercicio 1 
 
 Escribe una función recursiva llamada sumaRecursiva 
 que tome un array de números como argumento y devuelva la suma total de todos sus elementos. No puedes utilizar bucles (for, while).*/
